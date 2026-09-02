@@ -8,7 +8,7 @@ export PATH LC_ALL LANG
 
 SERVICE_NAME="hcr-server"
 SYSTEMD_DIR="/etc/systemd/system"
-PORT="8080"
+PORT="443"
 PORT_SET="false"
 MAX_DOWNLOAD_FRAME="256"
 DOWNLOAD_POLL_TIMEOUT="8s"
